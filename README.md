@@ -1,4 +1,5 @@
 ﻿# GitHub task
 How to run
-go to the file.txt and open it
+go to the feture/update-readme. download it and open the file.txt
+
 
