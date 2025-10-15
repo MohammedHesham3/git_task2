@@ -1,3 +1,4 @@
 ﻿# GitHub task
-I changed and updated this to inculde text
+How to run
+go to the file.txt and open it
 
